@@ -1,6 +1,6 @@
 package se.iths.axel.library;
 
-//Hej Axel
+//Hej Axel vgd?
 public class Book {
     private String title;
     private int isbn;
